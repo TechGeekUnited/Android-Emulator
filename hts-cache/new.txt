@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:45:08	3672/3672	---M--	404	error ('Not%20Found')	text/html	date:Mon,%2027%20Mar%202023%2020:45:07%20GMT	https://nougat.glitch.me/robots.txt		(from )
+16:45:08	1113/1113	---M--	200	added ('OK')	text/html	etag:%2226db9d8ccbc0e0c9d7c9915e4dd5a376%22	https://nougat.glitch.me/	C:/My%20Web%20Sites/https___nougat.glitch.me_/nougat.glitch.me/index.html	(from )
+16:45:08	449751/449751	---M--	200	added ('OK')	application/javascript	etag:%22afca972df7ffcfc5e22e2cf3f3b7834b%22	https://nougat.glitch.me/script.js	C:/My%20Web%20Sites/https___nougat.glitch.me_/nougat.glitch.me/script.js	(from https://nougat.glitch.me/)
